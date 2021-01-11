@@ -1,1 +1,3 @@
 .HIDDEN/
+*.gch
+*.ese
